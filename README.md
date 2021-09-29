@@ -1,6 +1,5 @@
 ### Hello! My name is Maria Paula, I am:
 - from São Paulo, Brazil ☀️
-- 24 years old 👵
 - a student in the field of Computer Science 📚
 - interested in software development and data science 💻
 
